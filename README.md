@@ -6,8 +6,6 @@
   <img src="https://github.com/XORPIOv/XORPIOv/blob/main/XORPIOv.gif" width="800" >
 </p>
 
-<a href="https://www.buymeacoffee.com/xorpiov" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" width="150" ></a>
-
 [![GitHub followers](https://img.shields.io/github/followers/XORPIOv?style=social)](https://github.com/XORPIOv)
 [![twitter-X](https://img.shields.io/twitter/follow/x?style=social)](https://twitter.com/x)
 
@@ -24,4 +22,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+<a href="https://www.buymeacoffee.com/xorpiov" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" width="150" ></a>
+
 -->
