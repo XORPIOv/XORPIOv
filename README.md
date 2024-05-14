@@ -6,7 +6,6 @@
   <img src="https://github.com/XORPIOv/XORPIOv/blob/main/XORPIOv.gif" width="800" >
 </p>
 
-[![XORPIOv's tryhackme stats](https://raw.githubusercontent.com/XORPIOv/XORPIOv/master/assets/thm_propic.png)][tryhackme]
 [![GitHub followers](https://img.shields.io/github/followers/XORPIOv?style=social)](https://github.com/XORPIOv)
 [![twitter-X](https://img.shields.io/twitter/follow/x?style=social)](https://twitter.com/x)
 
