@@ -1,5 +1,6 @@
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Micro+5&size=50&pause=1000&color=B61E1E&center=true&vCenter=true&random=false&width=435&lines=No+System+is+Safe" alt="Typing SVG" /></a>
+![tryhackme stats](https://raw.githubusercontent.com/XORPIOv/XORPIOv/master/assets/thm_propic.png)
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Micro+5&size=50&pause=1000&color=B61E1E&center=true&vCenter=true&random=false&width=435&lines=No+System+is+Safe" alt="Typing SVG" /></a>
 </p>
 
 <p align="center">
